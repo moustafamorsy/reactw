@@ -1,0 +1,32 @@
+nav{
+    color: #fff;
+    font-weight: bolder;
+    background-color: #2C3E50;
+   padding: 25px!important;
+  
+}
+
+.nav-link {
+    color: #fff!important;
+    margin-right: 50px;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+.logo {
+    font-size: 30px;
+    list-style: none;
+    text-decoration: none;
+    color: #fff!important;
+}
+
+.nav-link.active  {
+    background-color: #1ABC9C!important;
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+
